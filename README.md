@@ -59,3 +59,30 @@
 -  Add glow effect for ESP.
 - Integrate TriggerBot.
 -  Debug and polish overall system.
+---
+### v1.3.0 - Bhop and Fov changer
+
+- Added bhop and Fov changer
+
+- Added new toggle for each one
+---
+### v1.4.0 - Stylization update
+
+- Added better gui styling
+- updated esp styling
+### v1.4.1 - mini ui update
+
+- Added better gui styling
+- added fov changer slider
+---
+
+## **Bugs**
+- 1. Visible only esp uses dw_EntitySpotted (which means it also activates if the team sees them it also activates)
+- 2. No aimbot **yet**
+---
+## **TODO**
+- 1. Add aimbot 
+- 2. ~Add drexxy's auto dumper~
+- 3. ~add drexxy's entity class~
+
+
