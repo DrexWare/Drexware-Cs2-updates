@@ -87,12 +87,8 @@
 
 ## **Bugs**
 - 1. Visible only esp uses dw_EntitySpotted (which means it also activates if the team sees them it also activates)
-- 2. ~~~No aimbot **yet**~~~
 ---
 
-## **TODO**
-- 1. ~~~Add aimbot~~~ 
-- 2. ~~~Add drexxy's auto dumper~~~
-- 3. ~~~add drexxy's entity class~~~
+
 
 
