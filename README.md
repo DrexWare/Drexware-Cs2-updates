@@ -75,14 +75,24 @@
 - Added better gui styling
 - added fov changer slider
 ---
+### v1.4.2 - mini update
+- Fixed bug with fov changer setting fov while scoped
+
+### v1.5.0 - Added aimbot
+
+- Added menu for aimbot and settings
+
+### v1.5.1 - Added smooting slider
+- Added smoothing slider
 
 ## **Bugs**
 - 1. Visible only esp uses dw_EntitySpotted (which means it also activates if the team sees them it also activates)
-- 2. No aimbot **yet**
+- 2. ~~~No aimbot **yet**~~~
 ---
+
 ## **TODO**
-- 1. Add aimbot 
-- 2. ~Add drexxy's auto dumper~
-- 3. ~add drexxy's entity class~
+- 1. ~~~Add aimbot~~~ 
+- 2. ~~~Add drexxy's auto dumper~~~
+- 3. ~~~add drexxy's entity class~~~
 
 
